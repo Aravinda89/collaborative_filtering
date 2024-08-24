@@ -1,0 +1,100 @@
+Tea Name,Type,Steep Time,Origin,Benefit,Flavor,Caffine Level
+Earl grey,Black,3 min,England,Stress,Earthy,High
+Keemun,Black,3 min,China,stroke,Earthy,High
+Chai,Black,3 min,India,stroke,Spicy,High
+Morning Breakfast,Black,3 min,England,cholesterol,Earthy,High
+Kombucha,Black,7-30 days,China,antioxidant,Sweet,High
+Rize,Black,3 min,Turkey,heart,Earthy,High
+Darjeeling,Black,3 min,India,Cancer,Earthy,High
+Ceylon,Black,3 min,Sri Lanka,weight loss,Earthy,High
+Golden monkey,Black,3 min,China,immune system,Earthy,High
+Sun moon lake,Black,3 min,Taiwan,immune system,Earthy,High
+Assam,Black,3 min,India,Heart,Earthy,High
+Nilgiri,Black,3 min,India,Heart,Earthy,High
+Cloud and Mist,Green,3-4 min,China,Cancer,Vegetal,Low
+Liu an Gua,Green,3-4 min,China,Cancer,Vegetal,Low
+Chun Mei,Green,3-4 min,China,Cancer,Vegetal,Low
+Dragon Mountain,Green,3-4 min,China,Cancer,Vegetal,Low
+Gunpowder,Green,3-4 min,China,heart,Earthy,Low
+Jasmine,Green,3-4 min,China,antioxidant,Vegetal,Low
+Monkey king,Green,2-3 min,China,Cancer,Vegetal,Low
+Matcha,Green,None,Japan,antioxidant,Earthy,Low
+Spring bud,Green,3-4 min,China,Cancer,Vegetal,Low
+Snail Jasmine,Green,3-4 min,China,antioxidant,Vegetal,Low
+Longjing,Green,3-4 min,China,weight loss,Vegetal,Low
+Bancha,Green,3-4 min,Japan,antioxidant,Earthy,Low
+Gyokuro,Green,3-4 min,Japan,Cancer,Earthy,Low
+Sejak,Green,3-4 min,Korea,Cancer,Vegetal,Low
+Kukiicha,Green,3-4 min,Japan,antioxidant,Earthy,Low
+Sencha,Green,3-4 min,Japan,antioxidant,Vegetal,Low
+Ipcha,Green,3-4 min,Korea,Cancer,Earthy,Low
+Chamomile,Herbal,4-5 min,Egypt,Sleep,Floral,None
+Echinacea,Herbal,4-5 min,America,Cold,Earthy,None
+Hibiscus,Herbal,4-5 min,Middle East,Blood pressure,Floral,None
+Roobios,Herbal,4-5 min,South Africa,Cancer,Earthy,None
+Barley,Herbal,4-5 min,Japan,Weight loss,Earthy,None
+Chrysanthemum,Herbal,4-5 min,China,Fever,Earthy,None
+Honey,Herbal,4-5 min,unknown,Throat,Sweet,None
+Mint,Herbal,4-5 min,Korea,nausea,Sweet,None
+Ginger,Herbal,4-5 min,China,Nausea,Spicy,None
+Lemon,Herbal,4-5 min,India,Cold,Sweet,None
+Peppermint,Herbal,4-5 min,Korea,nausea,Sweet,None
+Rosehip,Herbal,4-5 min,China,Cold,Earthy,None
+Spearmint,Herbal,4-5 min,Korea,nausea,Sweet,None
+Tulsi,Herbal,2-3 min,Asia,invigorating,Spicy,None
+Yerba Mate,Herbal,4-5 min,Columbia,invigorating,Earthy,None
+Angelica root,Herbal,7-12 min,China,Cold,Earthy,None
+Anise,Herbal,4-5 min,Asia,Nausea,Floral,None
+Black Cohosh,Herbal,4-5 min,America,anti-inflamitory,Earthy,None
+Bonset,Herbal,4-5 min,China,Flu,Earthy,None
+Burdock,Herbal,4-5 min,China,Pain,Earthy,None
+Calendula,Herbal,4-5 min,Middle East,Skin,Floral,None
+Catnip,Herbal,4-5 min,China,anti-inflamitory,Spicy,None
+Chickweed,Herbal,4-5 min,Europe,Pain,Spicy,None
+Cinnamon,Herbal,4-5 min,China,Brain,Spicy,None
+Clove,Herbal,4-5 min,China,Pain,Spicy,None
+Dandelion,Herbal,4-5 min,China,weight loss,Earthy,None
+Eucalyptus,Herbal,4-5 min,Australia,Flu,Floral,None
+Eyebright,Herbal,4-5 min,Egypt,eyes,Earthy,None
+fennel,Herbal,4-5 min,Greece,eyes,Earthy,None
+feverfew,Herbal,4-5 min,Australia,fever,Earthy,None
+Garlic,Herbal,4-5 min,China,Heart,Spicy,None
+Ginkgo Biloba,Herbal,4-5 min,Japan,Brain,Earthy,None
+Ginsing,Herbal,4-5 min,China,Cold,Earthy,None
+Goldenrod,Herbal,4-5 min,America,Kidney,Floral,None
+Jasmine,Herbal,4-5 min,China,Calming,Floral,None
+Kava,Herbal,4-5 min,Pacific Isalands,Calming,Earthy,None
+Lavender,Herbal,4-5 min,Egypt,Calming,Floral,None
+Lemon grass,Herbal,4-5 min,China,Purifies,Floral,None
+Lemon verbana,Herbal,4-5 min,China,Love,Floral,None
+Marshmellow,Herbal,10 min,Egypt,Calming,Sweet,None
+Motherwort,Herbal,4-5 min,China,Heart,Earthy,None
+Mugwort,Herbal,4-5 min,China,Kidney,Earthy,None
+Nettle,Herbal,4-5 min,China,Kidney,Floral,None
+Orange peel ,Herbal,15 min,China,Cold,Sweet,None
+Raspberry leaves,Herbal,15-20 min,Asia,Child birth,Floral,None
+Rosemary,Herbal,4-5 min,China,Cancer,Vegetal,None
+Sage,Herbal,4-5 min,China,pain,Vegetal,None
+Sassafras,Herbal,4-5 min,China,blood,Vegetal,None
+Skullcap,Herbal,4-5 min,China,pain,Sweet,None
+Strawberry leaves,Herbal,5-10 min,Asia,appatite,Earthy,None
+Vervain,Herbal,4-5 min,China,fever,Floral,None
+Walnut Leaves,Herbal,5 min,Asia,Diabetes,Earthy,None
+White oak bark,Herbal,5-8 min,Asia,balding,Earthy,None
+Wild yam,Herbal,3-5 min,Asia,Calming,Earthy,None
+Yarrow,Herbal,4-5 min,China,fever,Floral,None
+Yellow dock,Herbal,4-5 min,China,Blood,Floral,None
+Yerba Santa,Herbal,4-5 min,China,Allergies,Floral,None
+Oolong,Oolong,3-6 min,Taiwan,cholesterol,Vegetal,Low
+Yellow Godess,Oolong,3-6 min,China,weight loss,Vegetal,Low
+Water Fairy,Oolong,3-6 min,China,cholesterol,Vegetal,Low
+Pu-erh,Pu-erh,3-5 min,China,cholesterol,Earthy,High
+Longevity Eyebrow,White,1-3 min,China,anti-aging,Floral,Med
+Jasmine silver needle,White,1-3 min,China,anti-aging,Floral,Med
+Silver needle,White,1-3 min,China,anti-aging,Floral,Med
+White poeny,White,1-3 min,China,anti-aging,Floral,Med
+White monkey paw,White,1-3 min,China,anti-aging,Floral,Med
+Tribute eyebrow,White,1-3 min,China,anti-aging,Floral,Med
+Jun Shan,Yellow,1-2 min,China,weight loss,Vegetal,Med
+Meng Ding,Yellow,1-2 min,China,weight loss,Vegetal,Med
+Mo Gan,Yellow,1-2 min,China,weight loss,Vegetal,Med
